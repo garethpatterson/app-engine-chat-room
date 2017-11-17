@@ -1,3 +1,6 @@
+This application no longer works on Google App Engine as Google has removed support for XMPP APIs / channels object.  https://cloud.google.com/appengine/docs/deprecations/xmpp
+
+
 # A simple chat room for App Engine
 
 First project for Scripted Studio at Google!
